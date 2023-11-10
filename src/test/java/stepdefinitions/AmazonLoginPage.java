@@ -8,7 +8,7 @@ public class AmazonLoginPage {
 	
 	@Given("User is on Amazon landing Pgae")
 	public void user_is_on_amazon_landing_pgae() {
-	   
+	   System.out.println("Test");
 	}
 
 	@Given("Sign button is present on screen")
